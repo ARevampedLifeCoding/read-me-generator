@@ -1,0 +1,29 @@
+{
+  "name": "reade-me-generator",
+  "version": "1.0.0",
+  "description": "A README.md generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARevampedLifeCoding/reade-me-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Randy Langston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARevampedLifeCoding/reade-me-generator/issues"
+  },
+  "homepage": "https://github.com/ARevampedLifeCoding/reade-me-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {}
+}
+ 
